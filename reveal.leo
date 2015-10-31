@@ -298,7 +298,7 @@
 </v>
 </v>
 </v>
-<v t="leo.20151031212952.1"><vh>@clean simplest2.html</vh>
+<v t="leo.20151031212952.1" a="E"><vh>@clean simplest2.html</vh>
 <v t="leo.20151031212952.2"><vh>檔案說明</vh></v>
 <v t="leo.20151031212952.3" a="E"><vh>html 標註</vh>
 <v t="leo.20151031212952.4" a="E"><vh>body 標註</vh>
@@ -2503,8 +2503,13 @@ Diff...
     而在新增分支 文章放上作業 一直卡住&lt;br/&gt;
     雖然照著老師及同學的方法做&lt;br/&gt;
     但很多部分 還是無法一一解決&lt;br/&gt;
-    例如 推回近端有完成 但遠端卻沒有出現?&lt;br/&gt;
-    但目前這些問題都完整解決了.&lt;/p&gt;
+    例如 按照同學的拍攝影片的步驟做 卻還是沒有成功&lt;br/&gt;
+    在git clone下來的資料夾中 有出現新的simplest2&lt;br/&gt;
+    卻遲遲沒有出現2015_cp_hw_w4&lt;br/&gt;
+    在cmd.exe中出現「'pelican'不是內部或外部命令、可執行的程式或批次檔」字樣&lt;br/&gt;
+    詢問同學後，才發現是自己沒有輸入「pip install pelican markdown」&lt;br/&gt;
+    才一直沒有成功推上。&lt;br/&gt;
+    解決這個問題後，其他都沒有問題了。
 &lt;/section&gt;
 				
 </t>
