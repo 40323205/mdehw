@@ -505,26 +505,6 @@
 </v>
 </v>
 </v>
-<v t="leo.20151031205645.2" a="E"><vh>Recovered Nodes</vh>
-<v t="leo.20151031205645.3"><vh>Recovered node "html 標註" from @clean simplest.html</vh>
-<v t="leo.20151031205645.4"><vh>old:html 標註</vh></v>
-<v t="leo.20151031205645.5"><vh>new:html 標註</vh></v>
-</v>
-</v>
-<v t="leo.20151031212732.2" a="E"><vh>Recovered Nodes</vh>
-<v t="leo.20151031212732.3"><vh>Recovered node "有關我的作業" from @clean simplest.html</vh>
-<v t="leo.20151031212732.4"><vh>old:有關我的作業</vh></v>
-<v t="leo.20151031212732.5"><vh>new:有關我的作業</vh></v>
-</v>
-<v t="leo.20151031212732.6"><vh>Recovered node "作業任務一" from @clean simplest.html</vh>
-<v t="leo.20151031212732.7"><vh>old:作業任務一</vh></v>
-<v t="leo.20151031212732.8"><vh>new:作業任務一</vh></v>
-</v>
-<v t="leo.20151031212732.9"><vh>Recovered node "第3張投影片" from @clean simplest.html</vh>
-<v t="leo.20151031212732.10"><vh>old:第3張投影片</vh></v>
-<v t="leo.20151031212732.11"><vh>new:第3張投影片</vh></v>
-</v>
-</v>
 </vnodes>
 <tnodes>
 <t tx="amd.20150913232631.1"></t>
@@ -2273,160 +2253,6 @@ g.es("pelican 執行完畢")</t>
     &lt;p&gt;線上教材&lt;/p&gt;
     &lt;p&gt;影音教材&lt;/p&gt;
 &lt;/section&gt;</t>
-<t tx="leo.20151031205645.2"></t>
-<t tx="leo.20151031205645.3">(uncached) amd.20150915211351.1
-Diff...
-  &lt;!doctype html&gt;
-  &lt;html lang="en"&gt;
-  &lt;head&gt;
-  &lt;meta charset="utf-8"&gt;
-  &lt;title&gt;最簡單的 reveal 超文件&lt;/title&gt;
-  &lt;link rel="stylesheet" href="css/reveal.min.css"&gt;
-  	&lt;link rel="stylesheet" href="css/theme/default.css" id="theme"&gt;	
-  	&lt;!--增加對於 IE 早期版本的支援 --&gt;
-  	&lt;!--[if lt IE 9]&gt;
-  	&lt;script src="lib/js/html5shiv.js"&gt;&lt;/script&gt;
-  	&lt;![endif]--&gt;
-  &lt;/head&gt;
-+ &lt;&lt;&lt;&lt;&lt;&lt;&lt; HEAD
-+ &lt;/html&gt;
-+ &gt;&gt;&gt;&gt;&gt;&gt;&gt; 1365161e5ee1a3e979d94ab7def658cb9564abe7
-  @others
-</t>
-<t tx="leo.20151031205645.4">&lt;!doctype html&gt;
-&lt;html lang="en"&gt;
-&lt;head&gt;
-&lt;meta charset="utf-8"&gt;
-&lt;title&gt;最簡單的 reveal 超文件&lt;/title&gt;
-&lt;link rel="stylesheet" href="css/reveal.min.css"&gt;
-	&lt;link rel="stylesheet" href="css/theme/default.css" id="theme"&gt;	
-	&lt;!--增加對於 IE 早期版本的支援 --&gt;
-	&lt;!--[if lt IE 9]&gt;
-	&lt;script src="lib/js/html5shiv.js"&gt;&lt;/script&gt;
-	&lt;![endif]--&gt;
-&lt;/head&gt;
-&lt;&lt;&lt;&lt;&lt;&lt;&lt; HEAD
-&lt;/html&gt;
-&gt;&gt;&gt;&gt;&gt;&gt;&gt; 1365161e5ee1a3e979d94ab7def658cb9564abe7
-@others
-</t>
-<t tx="leo.20151031205645.5">&lt;!doctype html&gt;
-&lt;html lang="en"&gt;
-&lt;head&gt;
-&lt;meta charset="utf-8"&gt;
-&lt;title&gt;最簡單的 reveal 超文件&lt;/title&gt;
-&lt;link rel="stylesheet" href="css/reveal.min.css"&gt;
-	&lt;link rel="stylesheet" href="css/theme/default.css" id="theme"&gt;	
-	&lt;!--增加對於 IE 早期版本的支援 --&gt;
-	&lt;!--[if lt IE 9]&gt;
-	&lt;script src="lib/js/html5shiv.js"&gt;&lt;/script&gt;
-	&lt;![endif]--&gt;
-&lt;/head&gt;
-@others
-</t>
-<t tx="leo.20151031212732.10">&lt;section&gt;
-    &lt;h1&gt;心得 自評-&lt;/h1&gt;
-    &lt;p&gt;自評分數：75分，雖然一年級有學習過python&lt;br/&gt;
-    但新的學期要重新弄的時候，卻完全不記得&lt;br/&gt;
-    詢問了作業做成功的同學之後，自己的作業也大概完成了&lt;br/&gt;
-    目前為止是沒有碰到甚麼大問題。&lt;/p&gt;
-&lt;/section&gt;</t>
-<t tx="leo.20151031212732.11">&lt;section&gt;
-    &lt;h1&gt;第3張投影片&lt;/h1&gt;
-    &lt;p&gt;成績自評分數的量化依據?&lt;/p&gt;
-    &lt;p&gt;可以連結到內部投影片&lt;a href="#/hw-task-one"&gt;作業任務一&lt;/a&gt;
-&lt;/section&gt;
-				
-</t>
-<t tx="leo.20151031212732.2"></t>
-<t tx="leo.20151031212732.3">(uncached) amd.20150915211351.7
-Diff...
-  &lt;!-- 以下為投影片 --&gt;
-  &lt;!-- 每一個 section 都代表一張投影片,  --&gt;
-  &lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
-  &lt;section&gt;
--     &lt;h1&gt;有關我的作業&lt;/h1&gt;
--     &lt;p&gt;學號姓名與日期&lt;/p&gt;		
-+     &lt;h&gt;四設計二乙&lt;/h&gt;
-+     &lt;p&gt;40323205 陳子潔 10/1&lt;/p&gt;		
-  &lt;/section&gt;
-  	
-</t>
-<t tx="leo.20151031212732.4">&lt;!-- 以下為投影片 --&gt;
-&lt;!-- 每一個 section 都代表一張投影片,  --&gt;
-&lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
-&lt;section&gt;
-    &lt;h&gt;四設計二乙&lt;/h&gt;
-    &lt;p&gt;40323205 陳子潔 10/1&lt;/p&gt;		
-&lt;/section&gt;
-	
-</t>
-<t tx="leo.20151031212732.5">&lt;!-- 以下為投影片 --&gt;
-&lt;!-- 每一個 section 都代表一張投影片,  --&gt;
-&lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
-&lt;section&gt;
-    &lt;h1&gt;有關我的作業&lt;/h1&gt;
-    &lt;p&gt;學號姓名與日期&lt;/p&gt;		
-&lt;/section&gt;
-	
-</t>
-<t tx="leo.20151031212732.6">(uncached) amd.20150915211351.9
-Diff...
-- &lt;section id="hw-task-one"&gt;
-+ &lt;section&gt;
--     &lt;h1&gt;作業任務一&lt;/h1&gt;
-?           ^^^
-+     &lt;h1&gt;作業過程-&lt;/h1&gt;
-?           ^^^
--     &lt;p&gt;有關作業任務一的說明&lt;/p&gt;
-+     &lt;p&gt;從Ana3_lite2複製start到Ana3_2015&lt;br/&gt;
-+     從Ana3_lite2資料夾中的data&gt;apps&gt;複製launchLeo.py到Ana3_2015&lt;br/&gt;
-+     從Ana3_lite2資料夾中的data&gt;Anaconda3&gt;Lib&gt;site-packages複製到Ana3_2015&lt;br/&gt;
-+     點取Ana3_2015的start&lt;br/&gt;
-+     git clone老師的reveal及自己創的github&lt;br/&gt;
-+     用Leo打開reveal裡的reveal.Leo更改資料&lt;br/&gt;
-+     更改完之後，依照一年級教的推上遠端的步驟，即結束。&lt;/p&gt;
--     &lt;p&gt;請參考 &lt;a href="http://www.google.com"&gt;Google&lt;/a&gt;
-?        ----
-+     &lt;p&gt;&lt;a href="http://www.google.com"&gt;Google&lt;/a&gt;
-  &lt;/section&gt;
-  				
-</t>
-<t tx="leo.20151031212732.7">&lt;section&gt;
-    &lt;h1&gt;作業過程-&lt;/h1&gt;
-    &lt;p&gt;從Ana3_lite2複製start到Ana3_2015&lt;br/&gt;
-    從Ana3_lite2資料夾中的data&gt;apps&gt;複製launchLeo.py到Ana3_2015&lt;br/&gt;
-    從Ana3_lite2資料夾中的data&gt;Anaconda3&gt;Lib&gt;site-packages複製到Ana3_2015&lt;br/&gt;
-    點取Ana3_2015的start&lt;br/&gt;
-    git clone老師的reveal及自己創的github&lt;br/&gt;
-    用Leo打開reveal裡的reveal.Leo更改資料&lt;br/&gt;
-    更改完之後，依照一年級教的推上遠端的步驟，即結束。&lt;/p&gt;
-    &lt;p&gt;&lt;a href="http://www.google.com"&gt;Google&lt;/a&gt;
-&lt;/section&gt;
-				
-</t>
-<t tx="leo.20151031212732.8">&lt;section id="hw-task-one"&gt;
-    &lt;h1&gt;作業任務一&lt;/h1&gt;
-    &lt;p&gt;有關作業任務一的說明&lt;/p&gt;
-    &lt;p&gt;請參考 &lt;a href="http://www.google.com"&gt;Google&lt;/a&gt;
-&lt;/section&gt;
-				
-</t>
-<t tx="leo.20151031212732.9">(uncached) amd.20150915211351.12
-Diff...
-  &lt;section&gt;
--     &lt;h1&gt;第3張投影片&lt;/h1&gt;
--     &lt;p&gt;成績自評分數的量化依據?&lt;/p&gt;
--     &lt;p&gt;可以連結到內部投影片&lt;a href="#/hw-task-one"&gt;作業任務一&lt;/a&gt;
-+     &lt;h1&gt;心得 自評-&lt;/h1&gt;
-+     &lt;p&gt;自評分數：75分，雖然一年級有學習過python&lt;br/&gt;
-+     但新的學期要重新弄的時候，卻完全不記得&lt;br/&gt;
-+     詢問了作業做成功的同學之後，自己的作業也大概完成了&lt;br/&gt;
-+     目前為止是沒有碰到甚麼大問題。&lt;/p&gt;
-- &lt;/section&gt;
-?           -
-+ &lt;/section&gt;- 				
-</t>
 <t tx="leo.20151031212952.1">@language xml
 @tabwidth -4
 @others
@@ -2487,7 +2313,7 @@ Diff...
 	
 </t>
 <t tx="leo.20151031212952.8">&lt;section id="hw-task-one"&gt;
-    &lt;h1&gt;作業過程-&lt;/h1&gt;
+    &lt;h2&gt;作業過程-&lt;/h2&gt;
     &lt;p&gt;1. 使用Slovespace軟體繪製出以下圖片&lt;br/&gt;
     並拍下自己所畫的圖形&lt;br/&gt;
     2. 在reveal.leo新增新的文章&lt;br/&gt;
@@ -2497,15 +2323,12 @@ Diff...
 				
 </t>
 <t tx="leo.20151031212952.9">&lt;section&gt;
-    &lt;h1&gt;心得 自評-&lt;/h1&gt;
+    &lt;h2&gt;心得 自評-&lt;/h2&gt;
     &lt;p&gt;自評分數：65分，這次的作業&lt;br/&gt;
     畫圖部分並沒有碰到甚麼大問題&lt;br/&gt;
     而在新增分支 文章放上作業 一直卡住&lt;br/&gt;
-    雖然照著老師及同學的方法做&lt;br/&gt;
-    但很多部分 還是無法一一解決&lt;br/&gt;
     例如 按照同學的拍攝影片的步驟做 卻還是沒有成功&lt;br/&gt;
-    在git clone下來的資料夾中 有出現新的simplest2&lt;br/&gt;
-    卻遲遲沒有出現2015_cp_hw_w4&lt;br/&gt;
+    在git clone下來的資料夾中 有出現新的simplest2，卻遲遲沒有出現2015_cp_hw_w4&lt;br/&gt;
     在cmd.exe中出現「'pelican'不是內部或外部命令、可執行的程式或批次檔」字樣&lt;br/&gt;
     詢問同學後，才發現是自己沒有輸入「pip install pelican markdown」&lt;br/&gt;
     才一直沒有成功推上。&lt;br/&gt;
