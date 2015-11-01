@@ -37,7 +37,8 @@
 <v t="amd.20150919124128.1"><vh>@button pelican content</vh></v>
 <v t="amd.20150919114010.1" a="E"><vh>@path pelican\content</vh>
 <v t="amd.20150919114035.1"><vh>@edit 2015cphww1.md</vh></v>
-<v t="leo.20151031212916.1"><vh>@edit 2015cphww2.md</vh></v>
+<v t="leo.20151031212916.1"><vh>@edit 2015cphww4.md</vh></v>
+<v t="leo.20151101171332.1"><vh>@edit 2015cphww5.md</vh></v>
 </v>
 <v t="amd.20150919120205.1"><vh>以下為 reveal 投影片</vh></v>
 <v t="amd.20150913233943.1"><vh>@clean cadpbw1.html</vh>
@@ -283,7 +284,7 @@
 </v>
 </v>
 </v>
-<v t="amd.20150915211341.1" a="E"><vh>@clean simplest.html</vh>
+<v t="amd.20150915211341.1"><vh>@clean simplest.html</vh>
 <v t="amd.20150917085040.1"><vh>檔案說明</vh></v>
 <v t="amd.20150915211351.1" a="E"><vh>html 標註</vh>
 <v t="amd.20150915211351.4" a="E"><vh>body 標註</vh>
@@ -298,7 +299,7 @@
 </v>
 </v>
 </v>
-<v t="leo.20151031212952.1" a="E"><vh>@clean simplest2.html</vh>
+<v t="leo.20151031212952.1"><vh>@clean simplest2.html</vh>
 <v t="leo.20151031212952.2"><vh>檔案說明</vh></v>
 <v t="leo.20151031212952.3" a="E"><vh>html 標註</vh>
 <v t="leo.20151031212952.4" a="E"><vh>body 標註</vh>
@@ -310,6 +311,21 @@
 </v>
 </v>
 <v t="leo.20151031212952.10"><vh>script</vh></v>
+</v>
+</v>
+</v>
+<v t="leo.20151101171511.1"><vh>@clean simplest3.html</vh>
+<v t="leo.20151101171511.2"><vh>檔案說明</vh></v>
+<v t="leo.20151101171511.3" a="E"><vh>html 標註</vh>
+<v t="leo.20151101171511.4" a="E"><vh>body 標註</vh>
+<v t="leo.20151101171511.5" a="E"><vh>div class="reveal"</vh>
+<v t="leo.20151101171511.6" a="E"><vh>div class="slides"</vh>
+<v t="leo.20151101171511.7"><vh>有關我的作業</vh></v>
+<v t="leo.20151101171511.8"><vh>作業任務一</vh></v>
+<v t="leo.20151101171511.9"><vh>第3張投影片</vh></v>
+</v>
+</v>
+<v t="leo.20151101171511.10"><vh>script</vh></v>
 </v>
 </v>
 </v>
@@ -2333,6 +2349,86 @@ g.es("pelican 執行完畢")</t>
     詢問同學後，才發現是自己沒有輸入「pip install pelican markdown」&lt;br/&gt;
     才一直沒有成功推上。&lt;br/&gt;
     解決這個問題後，其他都沒有問題了。
+&lt;/section&gt;
+				
+</t>
+<t tx="leo.20151101171511.1">@language xml
+@tabwidth -4
+@others
+
+</t>
+<t tx="leo.20151101171511.10">&lt;script src="lib/js/head.min.js"&gt;&lt;/script&gt;
+&lt;script src="js/reveal.min.js"&gt;&lt;/script&gt;
+&lt;script&gt;
+    // 啟動 Reveal.
+    Reveal.initialize({
+    });
+&lt;/script&gt;
+	
+</t>
+<t tx="leo.20151101171511.2">&lt;!--
+這個檔案展示了 reveal.js 投影片資料的基本架構
+其中使用 "reveal" class 與 "slides" class 來界定投影片的資料範圍
+而各投影片則以 &lt;section&gt;&lt;/section&gt; 標示
+且支援平行與垂直的投影片配置方法
+--&gt;
+</t>
+<t tx="leo.20151101171511.3">&lt;!doctype html&gt;
+&lt;html lang="en"&gt;
+&lt;head&gt;
+&lt;meta charset="utf-8"&gt;
+&lt;title&gt;最簡單的 reveal 超文件&lt;/title&gt;
+&lt;link rel="stylesheet" href="css/reveal.min.css"&gt;
+	&lt;link rel="stylesheet" href="css/theme/default.css" id="theme"&gt;	
+	&lt;!--增加對於 IE 早期版本的支援 --&gt;
+	&lt;!--[if lt IE 9]&gt;
+	&lt;script src="lib/js/html5shiv.js"&gt;&lt;/script&gt;
+	&lt;![endif]--&gt;
+&lt;/head&gt;
+@others
+</t>
+<t tx="leo.20151101171511.4">&lt;body&gt;
+@others
+&lt;/body&gt;
+</t>
+<t tx="leo.20151101171511.5">&lt;!-- 將整個投影片包在 "reveal" class 中 --&gt;
+&lt;div class="reveal"&gt;
+@others
+&lt;/div&gt;
+</t>
+<t tx="leo.20151101171511.6">&lt;!-- 將所有投影片包在 "slides" class 中 --&gt;
+&lt;div class="slides"&gt;
+@others
+&lt;/div&gt;
+</t>
+<t tx="leo.20151101171511.7">&lt;!-- 以下為投影片 --&gt;
+&lt;!-- 每一個 section 都代表一張投影片,  --&gt;
+&lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
+&lt;section&gt;
+    &lt;h1&gt;四設計二乙&lt;/h1&gt;
+    &lt;p&gt;40323205 陳子潔 11/01&lt;/p&gt;		
+&lt;/section&gt;
+
+	
+</t>
+<t tx="leo.20151101171511.8">&lt;section id="hw-task-one"&gt;
+    &lt;h2&gt;作業過程-&lt;/h2&gt;
+    &lt;p&gt;1. 點選Ana3_2015&gt;date&gt;apps&gt;creo2_64bit&gt;Parametric&gt;bin中找到parametric應用程式&lt;br/&gt;
+    2. 在creo中繪製出 以下兩個零件 並組裝成組合圖&lt;br/&gt;
+    3. 在reveal.leo新增新的文章&lt;br/&gt;
+    依照第4週作業的步驟&lt;br/&gt;
+    製作投影片 並將作業繳交完成&lt;p&gt; 
+&lt;/section&gt;
+				
+</t>
+<t tx="leo.20151101171511.9">&lt;section&gt;
+    &lt;h2&gt;心得 自評-&lt;/h2&gt;
+    &lt;p&gt;自評分數：70分&lt;br/&gt;
+    第一次操作Creo，整體的感覺跟Solidworks大概相同&lt;br/&gt;
+    但還是有些不大一致，所以在操作時有些卡住&lt;br/&gt;
+    例如 要標註尺寸、讓軸平行，及在組裝時旋轉物件&lt;br/&gt;
+    慢慢熟悉Creo後，畫圖時間越來越縮短。&lt;br/&gt;
+    而在本次上傳作業時，沒有碰到甚麼問題。
 &lt;/section&gt;
 				
 </t>
