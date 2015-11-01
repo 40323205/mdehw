@@ -6,10 +6,19 @@
 &lt;p&gt;Creo 繪圖練習&lt;/p&gt;
 &lt;p&gt;零件1&lt;/p&gt;
 &lt;p&gt;&lt;img src="https://copy.com/Unhpa6Icu6NFtMez" width="500" &gt;&lt;/img&gt;&lt;/p&gt;
+&lt;p&gt;零件1_影片教學&lt;/p&gt;
+&lt;iframe width="560" height="315" src="https://youtu.be/kdGxnDDObak" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
+
 &lt;p&gt;零件2&lt;/p&gt;
 &lt;p&gt;&lt;img src="https://copy.com/Qudc7gO8iuo0rzfQ" width="500" &gt;&lt;/img&gt;&lt;/p&gt;
+&lt;p&gt;零件2_影片教學&lt;/p&gt;
+&lt;iframe width="560" height="315" src="https://www.youtube.com/watch?v=oSEQ2cPDpiI" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
+
 &lt;p&gt;零件組合圖&lt;/p&gt;
 &lt;p&gt;&lt;img src="https://copy.com/Reo4mc6o8VEb0NEh" width="500" &gt;&lt;/img&gt;&lt;/p&gt;
+&lt;p&gt;零件組合_影片教學&lt;/p&gt;
+&lt;iframe width="560" height="315" src="https://www.youtube.com/watch?v=a37PU9eKM_k" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
+
 &lt;p&gt;(http://www.google.com){:target="_blank"}, 也可以連到同目錄下的檔案 &lt;a href="cadpbw1.html" target="_blank"&gt;cadpbw1.html&lt;/a&gt;&lt;/p&gt;</summary><category term="pelican"></category><category term="publishing"></category></entry><entry><title>2015 計算機程式 W4作業</title><link href="http://example.com/2015cp_hw_w4.html" rel="alternate"></link><updated>2015-10-31T11:41:00+08:00</updated><author><name>40323205</name></author><id>tag:example.com,2015-10-31:2015cp_hw_w4.html</id><summary type="html">&lt;p&gt;利用 iframe 嵌入投影片:&lt;/p&gt;
 &lt;iframe src="simplest2.html" width="500" height="300"&gt;&lt;/iframe&gt;
 
