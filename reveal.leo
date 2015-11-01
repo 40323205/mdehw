@@ -283,7 +283,7 @@
 </v>
 </v>
 </v>
-<v t="amd.20150915211341.1"><vh>@clean simplest.html</vh>
+<v t="amd.20150915211341.1" a="E"><vh>@clean simplest.html</vh>
 <v t="amd.20150917085040.1"><vh>檔案說明</vh></v>
 <v t="amd.20150915211351.1" a="E"><vh>html 標註</vh>
 <v t="amd.20150915211351.4" a="E"><vh>body 標註</vh>
@@ -2002,7 +2002,7 @@ Code syntax highlighting courtesy of &lt;a href="http://softwaremaniacs.org/soft
 @others
 </t>
 <t tx="amd.20150915211351.12">&lt;section&gt;
-    &lt;h1&gt;心得 自評-&lt;/h1&gt;
+    &lt;h2&gt;心得 自評-&lt;/h2&gt;
     &lt;p&gt;自評分數：75分，雖然一年級有學習過python&lt;br/&gt;
     但新的學期要重新弄的時候，卻完全不記得&lt;br/&gt;
     詢問了作業做成功的同學之後，自己的作業也大概完成了&lt;br/&gt;
@@ -2037,14 +2037,14 @@ Code syntax highlighting courtesy of &lt;a href="http://softwaremaniacs.org/soft
 &lt;!-- 每一個 section 都代表一張投影片,  --&gt;
 &lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
 &lt;section&gt;
-    &lt;h&gt;四設計二乙&lt;/h&gt;
+    &lt;h1&gt;四設計二乙&lt;/h1&gt;
     &lt;p&gt;40323205 陳子潔 10/1&lt;/p&gt;		
 &lt;/section&gt;
 
 	
 </t>
 <t tx="amd.20150915211351.9">&lt;section&gt;
-    &lt;h1&gt;作業過程-&lt;/h1&gt;
+    &lt;h2&gt;作業過程-&lt;/h2&gt;
     &lt;p&gt;從Ana3_lite2複製start到Ana3_2015&lt;br/&gt;
     從Ana3_lite2資料夾中的data&gt;apps&gt;複製launchLeo.py到Ana3_2015&lt;br/&gt;
     從Ana3_lite2資料夾中的data&gt;Anaconda3&gt;Lib&gt;site-packages複製到Ana3_2015&lt;br/&gt;
@@ -2306,7 +2306,7 @@ g.es("pelican 執行完畢")</t>
 &lt;!-- 每一個 section 都代表一張投影片,  --&gt;
 &lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
 &lt;section&gt;
-    &lt;h&gt;四設計二乙&lt;/h&gt;
+    &lt;h1&gt;四設計二乙&lt;/h1&gt;
     &lt;p&gt;40323205 陳子潔 10/31&lt;/p&gt;		
 &lt;/section&gt;
 
