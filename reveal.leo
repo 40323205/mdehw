@@ -330,7 +330,7 @@
 </v>
 </v>
 </v>
-<v t="leo.20151213220953.1"><vh>@button open html</vh>
+<v t="leo.20151213220953.1" a="E"><vh>@button open html</vh>
 <v t="leo.20151213220953.2" a="E"><vh>@clean cadp_w12_lecture.html</vh>
 <v t="leo.20151213220953.3"><vh>檔案說明</vh></v>
 <v t="leo.20151213220953.4" a="E"><vh>html 標註</vh>
@@ -2467,9 +2467,20 @@ import os
 for ch in p.children():
     filename = ch.h.split(" ")[1]
     os.system("firefox "+filename)</t>
-<t tx="leo.20151213220953.10">&lt;&lt; header &gt;&gt;
-&lt;p&gt;每一頁都要標學號&lt;/p&gt;
-&lt;/section&gt;</t>
+<t tx="leo.20151213220953.10">&lt;!-- 以下為投影片 --&gt;
+&lt;!-- 每一個 section 都代表一張投影片,  --&gt;
+&lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
+&lt;&lt; header &gt;&gt;
+
+&lt;section&gt;
+    &lt;h1&gt;操作步驟-&lt;/h1&gt;
+    &lt;ol&gt;
+&lt;li&gt;6-將下載下來的檔案放至步驟2下載的fix資料夾中&lt;/li&gt;
+    &lt;li&gt;7-打開步驟4的SciTE，將fix.bat新增新的一行copy leo-editor-broke-abbrev.zip C:\Ana3_2015\data\&lt;/li&gt;
+    &lt;li&gt;8-將start.bat第35行更改成pip install leo-editor-broke-abbrev.zip&lt;/li&gt;
+    &lt;li&gt;9-全部儲存後，點選stop.bat再次點選star.bat，Leo就會是最新版本&lt;/li&gt;
+    &lt;/ol&gt;		
+    &lt;/section&gt;</t>
 <t tx="leo.20151213220953.12">&lt;&lt; header &gt;&gt;
 
     &lt;h1&gt;自評 心得-&lt;/h1&gt;
@@ -2559,10 +2570,6 @@ cadp w12 講課內容投影片
     &lt;li&gt;3-開啟Ana3_2015裡的SciTE&lt;/li&gt;
     &lt;li&gt;4-把解壓縮過後的fix.bat及start.bat使用SciTE打開&lt;/li&gt;    
     &lt;li&gt;5-在搜尋引擎搜尋leo-editor github→選擇github裡的releases→選擇最新更新的檔案下載&lt;/li&gt;
-    &lt;li&gt;6-將下載下來的檔案放至步驟2下載的fix資料夾中&lt;/li&gt;
-    &lt;li&gt;7-打開步驟4的SciTE，將fix.bat新增新的一行copy leo-editor-broke-abbrev.zip C:\Ana3_2015\data\&lt;/li&gt;
-    &lt;li&gt;8-將start.bat第35行更改成pip install leo-editor-broke-abbrev.zip&lt;/li&gt;
-    &lt;li&gt;9-全部儲存後，點選stop.bat再次點選star.bat，Leo就會是最新版本&lt;/li&gt;
     &lt;/ol&gt;		
     &lt;/section&gt;
     
