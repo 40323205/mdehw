@@ -2473,12 +2473,12 @@ for ch in p.children():
 &lt;&lt; header &gt;&gt;
 
 &lt;section&gt;
-    &lt;h1&gt;操作步驟-&lt;/h1&gt;
+    &lt;h1&gt;操作步驟(二)-&lt;/h1&gt;
     &lt;ol&gt;
-&lt;li&gt;6-將下載下來的檔案放至步驟2下載的fix資料夾中&lt;/li&gt;
-    &lt;li&gt;7-打開步驟4的SciTE，將fix.bat新增新的一行copy leo-editor-broke-abbrev.zip C:\Ana3_2015\data\&lt;/li&gt;
-    &lt;li&gt;8-將start.bat第35行更改成pip install leo-editor-broke-abbrev.zip&lt;/li&gt;
-    &lt;li&gt;9-全部儲存後，點選stop.bat再次點選star.bat，Leo就會是最新版本&lt;/li&gt;
+&lt;li&gt;將下載下來的檔案放至步驟2下載的fix資料夾中&lt;/li&gt;
+    &lt;li&gt;打開步驟4的SciTE，將fix.bat新增新的一行copy leo-editor-broke-abbrev.zip C:\Ana3_2015\data\&lt;/li&gt;
+    &lt;li&gt;將start.bat第35行更改成pip install leo-editor-broke-abbrev.zip&lt;/li&gt;
+    &lt;li&gt;全部儲存後，點選stop.bat再次點選star.bat，Leo就會是最新版本&lt;/li&gt;
     &lt;/ol&gt;		
     &lt;/section&gt;</t>
 <t tx="leo.20151213220953.12">&lt;&lt; header &gt;&gt;
@@ -2563,13 +2563,13 @@ cadp w12 講課內容投影片
     &lt;/section&gt;
     
     &lt;section&gt;
-    &lt;h1&gt;操作步驟-&lt;/h1&gt;
+    &lt;h1&gt;操作步驟(一)-&lt;/h1&gt;
     &lt;ol&gt;
-    &lt;li&gt;1-到KMOL Course Blog (虎尾科大機械設計工程系)選擇左方選單的2015Fall課程&lt;/le&gt;
-    &lt;li&gt;2-下載copy.com的fix.zip，將下載下來的檔案解壓縮&lt;/li&gt;
-    &lt;li&gt;3-開啟Ana3_2015裡的SciTE&lt;/li&gt;
-    &lt;li&gt;4-把解壓縮過後的fix.bat及start.bat使用SciTE打開&lt;/li&gt;    
-    &lt;li&gt;5-在搜尋引擎搜尋leo-editor github→選擇github裡的releases→選擇最新更新的檔案下載&lt;/li&gt;
+    &lt;li&gt;到KMOL Course Blog (虎尾科大機械設計工程系)選擇左方選單的2015Fall課程&lt;/le&gt;
+    &lt;li&gt;下載copy.com的fix.zip，將下載下來的檔案解壓縮&lt;/li&gt;
+    &lt;li&gt;開啟Ana3_2015裡的SciTE&lt;/li&gt;
+    &lt;li&gt;把解壓縮過後的fix.bat及start.bat使用SciTE打開&lt;/li&gt;    
+    &lt;li&gt;在搜尋引擎搜尋leo-editor github→選擇github裡的releases→選擇最新更新的檔案下載&lt;/li&gt;
     &lt;/ol&gt;		
     &lt;/section&gt;
     
