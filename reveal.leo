@@ -331,7 +331,7 @@
 </v>
 </v>
 </v>
-<v t="leo.20151214104443.1" a="E"><vh>@clean simplest4.html</vh>
+<v t="leo.20151214104443.1"><vh>@clean simplest4.html</vh>
 <v t="leo.20151214104443.2"><vh>檔案說明</vh></v>
 <v t="leo.20151214104443.3" a="E"><vh>html 標註</vh>
 <v t="leo.20151214104443.4" a="E"><vh>body 標註</vh>
@@ -346,7 +346,7 @@
 </v>
 </v>
 </v>
-<v t="leo.20151213220953.1"><vh>@button open html</vh>
+<v t="leo.20151213220953.1" a="E"><vh>@button open html</vh>
 <v t="leo.20151213220953.2" a="E"><vh>@clean cadp_w12_lecture.html</vh>
 <v t="leo.20151213220953.3"><vh>檔案說明</vh></v>
 <v t="leo.20151213220953.4" a="E"><vh>html 標註</vh>
@@ -356,8 +356,8 @@
 <v t="leo.20151213220953.8" a="E"><vh>第 12 週開始的規劃</vh>
 <v t="leo.20151213220953.13"><vh>&lt;&lt; header &gt;&gt;</vh></v>
 </v>
-<v t="leo.20151214111112.1" a="E"><vh>header 測試1</vh>
-<v t="leo.20151214111112.2"><vh>&lt;&lt; header &gt;&gt;</vh></v>
+<v t="leo.20151214112648.1" a="E"><vh>header 測試1</vh>
+<v t="leo.20151214112648.2"><vh>&lt;&lt; header &gt;&gt;</vh></v>
 </v>
 <v t="leo.20151213220953.10" a="E"><vh>header 測試2</vh>
 <v t="leo.20151213220953.13"></v>
@@ -2500,7 +2500,9 @@ for ch in p.children():
     &lt;li&gt;全部儲存後，啟動fix.bat&lt;/li&gt;
     &lt;li&gt;再點選stop.bat再次點選star.bat，Leo就會是最新版本&lt;/li&gt;
     &lt;/ol&gt;		
-    &lt;/section&gt;</t>
+    &lt;/section&gt;
+    
+ &lt;/section&gt;</t>
 <t tx="leo.20151213220953.12">&lt;&lt; header &gt;&gt;
 
     &lt;h1&gt;自評 心得-&lt;/h1&gt;
@@ -2581,7 +2583,8 @@ cadp w12 講課內容投影片
     &lt;h1&gt;第 12 週開始的規劃&lt;/h1&gt;
     &lt;p&gt;2015Fall 電腦輔助設計實習&lt;/p&gt;
     &lt;/section&gt;
-</t>
+    
+ &lt;/section&gt;</t>
 <t tx="leo.20151214104443.1">@language xml
 @tabwidth -4
 @others
@@ -2661,7 +2664,7 @@ cadp w12 講課內容投影片
 &lt;/section&gt;
 				
 </t>
-<t tx="leo.20151214111112.1">&lt;!-- 以下為投影片 --&gt;
+<t tx="leo.20151214112648.1">&lt;!-- 以下為投影片 --&gt;
 &lt;!-- 每一個 section 都代表一張投影片,  --&gt;
 &lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
 &lt;&lt; header &gt;&gt;
@@ -2675,8 +2678,10 @@ cadp w12 講課內容投影片
     &lt;li&gt;把解壓縮過後的fix.bat及start.bat使用SciTE打開&lt;/li&gt;    
     &lt;li&gt;在搜尋引擎搜尋leo-editor github→選擇github裡的releases→選擇最新更新的檔案下載&lt;/li&gt;
     &lt;/ol&gt;		
-    &lt;/section&gt;</t>
-<t tx="leo.20151214111112.2">&lt;section data-state="header1"&gt;
+    &lt;/section&gt;
+    
+ &lt;/section&gt;</t>
+<t tx="leo.20151214112648.2">&lt;section data-state="header1"&gt;
 &lt;style&gt;.header1 header:after { 
 display: block;
 white-space: pre;
