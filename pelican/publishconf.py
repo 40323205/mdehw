@@ -26,12 +26,14 @@ AUTHOR_FEED_RSS = None
 
 # Blogroll
 LINKS = (('2015課程網頁', 'http://wordpress-2015course.rhcloud.com/'),
-         ('Python', 'http://python.org/'),
-         ('You can modify those links in your config file', '#'),)
+                ('Python', 'http://python.org/'),
+                ('我的github', 'https://github.com/40323205/mdehw/tree/gh-pages'),
+                ('我的協同網站', 'http://2015fallhw.github.io/2015fallcadpb/user/40323205/'),
+                ('全班協同網站', 'http://2015fallhw.github.io/2015fallcadpb/'))
 
 # Social widget
-SOCIAL = (('You can add links in your config file', '#'),
-          ('Another social link', '#'),)
+SOCIAL = (('twitter', 'http://twitter.com/ametaireau'),
+          ('github', 'http://github.com/ametaireau'),)
 
 DEFAULT_PAGINATION = 10
 

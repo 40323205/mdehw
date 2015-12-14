@@ -20,7 +20,7 @@
 <v t="amd.20150919102541.1"><vh>pelican 與 Markdown</vh></v>
 </v>
 </v>
-<v t="amd.20150919102739.1"><vh>專案架構</vh>
+<v t="amd.20150919102739.1" a="E"><vh>專案架構</vh>
 <v t="amd.20150919113520.1"><vh>@edit .gitignore</vh></v>
 <v t="amd.20150919103428.1"><vh>reveal.js 設定</vh></v>
 <v t="amd.20150919103341.1"><vh>Jupyter 設定</vh>
@@ -2478,7 +2478,8 @@ for ch in p.children():
 &lt;li&gt;將下載下來的檔案放至步驟2下載的fix資料夾中&lt;/li&gt;
     &lt;li&gt;打開步驟4的SciTE，將fix.bat新增新的一行copy leo-editor-broke-abbrev.zip C:\Ana3_2015\data\&lt;/li&gt;
     &lt;li&gt;將start.bat第35行更改成pip install leo-editor-broke-abbrev.zip&lt;/li&gt;
-    &lt;li&gt;全部儲存後，點選stop.bat再次點選star.bat，Leo就會是最新版本&lt;/li&gt;
+    &lt;li&gt;全部儲存後，啟動fix.bat&lt;/li&gt;
+    &lt;li&gt;再點選stop.bat再次點選star.bat，Leo就會是最新版本&lt;/li&gt;
     &lt;/ol&gt;		
     &lt;/section&gt;</t>
 <t tx="leo.20151213220953.12">&lt;&lt; header &gt;&gt;
