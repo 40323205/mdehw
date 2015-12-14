@@ -331,7 +331,7 @@
 </v>
 </v>
 </v>
-<v t="leo.20151214104443.1"><vh>@clean simplest4.html</vh>
+<v t="leo.20151214104443.1" a="E"><vh>@clean simplest4.html</vh>
 <v t="leo.20151214104443.2"><vh>檔案說明</vh></v>
 <v t="leo.20151214104443.3" a="E"><vh>html 標註</vh>
 <v t="leo.20151214104443.4" a="E"><vh>body 標註</vh>
@@ -346,7 +346,7 @@
 </v>
 </v>
 </v>
-<v t="leo.20151213220953.1" a="E"><vh>@button open html</vh>
+<v t="leo.20151213220953.1"><vh>@button open html</vh>
 <v t="leo.20151213220953.2" a="E"><vh>@clean cadp_w12_lecture.html</vh>
 <v t="leo.20151213220953.3"><vh>檔案說明</vh></v>
 <v t="leo.20151213220953.4" a="E"><vh>html 標註</vh>
@@ -2655,7 +2655,7 @@ cadp w12 講課內容投影片
     &lt;h2&gt;心得 自評-&lt;/h2&gt;
     &lt;p&gt;自評分數：70分&lt;br/&gt;
     在使用creo畫零件時，常常會因為軟體覺得不相容&lt;br/&gt;
-    整個軟體就這樣掛掉，或是要儲存時，軟體也這樣直接強迫關閉&lt;br/&gt;
+    整個軟體就這樣掛掉，或是要儲存時，&lt;br/&gt;軟體也這樣直接強迫關閉&lt;br/&gt;
     在經過多次失敗後，調整自己到底哪裡出了錯後&lt;br/&gt;
     拍攝影片也就很順利。
 &lt;/section&gt;
