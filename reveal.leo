@@ -355,7 +355,7 @@
 </v>
 </v>
 </v>
-<v t="leo.20151214115928.1"><vh>@button open html</vh>
+<v t="leo.20151214115928.1" a="E"><vh>@button open html</vh>
 <v t="leo.20151214115928.2" a="E"><vh>@clean cadp_w12_lecture.html</vh>
 <v t="leo.20151214115928.3"><vh>檔案說明</vh></v>
 <v t="leo.20151214115928.4" a="E"><vh>html 標註</vh>
@@ -573,7 +573,7 @@
 </v>
 </v>
 </v>
-<v t="leo.20151228104509.1"><vh>@button open html</vh>
+<v t="leo.20151228104509.1" a="E"><vh>@button open html</vh>
 <v t="leo.20151228104509.2" a="E"><vh>@clean cadp_w14_lecture.html</vh>
 <v t="leo.20151228104509.3"><vh>檔案說明</vh></v>
 <v t="leo.20151228104509.4" a="E"><vh>html 標註</vh>
@@ -2537,7 +2537,7 @@ for ch in p.children():
 &lt;style&gt;.header1 header:after { 
 display: block;
 white-space: pre;
-content: "課程: 電腦輔助設計實習B 學號: 40323205"; }&lt;/style&gt;</t>
+content: "課程: 電腦輔助設計實習B\A 學號: 40323205"; }&lt;/style&gt;</t>
 <t tx="leo.20151213220953.14">&lt;script src="lib/js/head.min.js"&gt;&lt;/script&gt;
 &lt;script src="js/reveal.min.js"&gt;&lt;/script&gt;
 &lt;script&gt;
@@ -2687,7 +2687,7 @@ content: "課程: 電腦輔助設計實習B 學號: 40323205"; }&lt;/style&gt;</
 &lt;style&gt;.header1 header:after { 
 display: block;
 white-space: pre;
-content: "課程: 電腦輔助設計實習B 學號: 40323205"; }&lt;/style&gt;</t>
+content: "課程: 電腦輔助設計實習B\A 學號: 40323205"; }&lt;/style&gt;</t>
 <t tx="leo.20151214115928.16">&lt;script src="lib/js/head.min.js"&gt;&lt;/script&gt;
 &lt;script src="js/reveal.min.js"&gt;&lt;/script&gt;
 &lt;script&gt;
@@ -2780,7 +2780,7 @@ for ch in p.children():
 &lt;style&gt;.header1 header:after { 
 display: block;
 white-space: pre;
-content: "課程: 電腦輔助設計實習B 學號: 40323205"; }&lt;/style&gt;</t>
+content: "課程: 電腦輔助設計實習B\A 學號: 40323205"; }&lt;/style&gt;</t>
 <t tx="leo.20151228104509.12">&lt;!-- 以下為投影片 --&gt;
 &lt;!-- 每一個 section 都代表一張投影片,  --&gt;
 &lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
