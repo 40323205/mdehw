@@ -35,13 +35,13 @@
 </v>
 <v t="amd.20150919113957.1"><vh>以下為 pelican 文章</vh></v>
 <v t="amd.20150919124128.1"><vh>@button pelican content</vh></v>
-<v t="amd.20150919114010.1"><vh>@path pelican\content</vh>
+<v t="amd.20150919114010.1" a="E"><vh>@path pelican\content</vh>
 <v t="amd.20150919114035.1"><vh>@edit 2015cphww1.md</vh></v>
 <v t="leo.20151031212916.1"><vh>@edit 2015cphww4.md</vh></v>
 <v t="leo.20151101171332.1"><vh>@edit 2015cphww5.md</vh></v>
 <v t="leo.20151214120202.1"><vh>@edit 2015cadp_w11.md</vh></v>
 <v t="leo.20151213220937.1"><vh>@edit 2015cadp_w12.md</vh></v>
-<v t="leo.20151228104543.1"><vh>@edit 2015cadp_w14.md</vh></v>
+<v t="leo.20151228104543.1"><vh>@edit 2015cadp_w15.md</vh></v>
 </v>
 <v t="amd.20150919120205.1"><vh>以下為 reveal 投影片</vh></v>
 <v t="amd.20150913233943.1"><vh>@clean cadpbw1.html</vh>
@@ -381,14 +381,14 @@
 </v>
 </v>
 </v>
-<v t="leo.20151228104509.1"><vh>@button open html</vh>
-<v t="leo.20151228104509.2" a="E"><vh>@clean cadp_w14_lecture.html</vh>
+<v t="leo.20151228104509.1" a="E"><vh>@button open html</vh>
+<v t="leo.20151228104509.2" a="E"><vh>@clean cadp_w15_lecture.html</vh>
 <v t="leo.20151228104509.3"><vh>檔案說明</vh></v>
 <v t="leo.20151228104509.4" a="E"><vh>html 標註</vh>
 <v t="leo.20151228104509.5" a="E"><vh>body 標註</vh>
 <v t="leo.20151228104509.6" a="E"><vh>div class="reveal"</vh>
 <v t="leo.20151228104509.7" a="E"><vh>div class="slides"</vh>
-<v t="leo.20151228104509.8" a="E"><vh>第 14 週開始的規劃</vh>
+<v t="leo.20151228104509.8" a="E"><vh>第 15 週開始的規劃</vh>
 <v t="leo.20151228104509.15"><vh>&lt;&lt; header &gt;&gt;</vh></v>
 </v>
 <v t="leo.20151228104509.10" a="E"><vh>header 測試1</vh>
@@ -2875,7 +2875,7 @@ cadp w12 講課內容投影片
 
     &lt;section&gt;
     &lt;style&gt;.header1 header:after { content: "Header 1 Example"; }&lt;/style&gt;
-    &lt;h1&gt;第 14 週開始的規劃&lt;/h1&gt;
+    &lt;h1&gt;第 15 週開始的規劃&lt;/h1&gt;
     &lt;p&gt;2015Fall 電腦輔助設計實習&lt;/p&gt;
     &lt;/section&gt;
     
