@@ -35,7 +35,7 @@
 </v>
 <v t="amd.20150919113957.1"><vh>以下為 pelican 文章</vh></v>
 <v t="amd.20150919124128.1"><vh>@button pelican content</vh></v>
-<v t="amd.20150919114010.1" a="E"><vh>@path pelican\content</vh>
+<v t="amd.20150919114010.1"><vh>@path pelican\content</vh>
 <v t="amd.20150919114035.1"><vh>@edit 2015cphww1.md</vh></v>
 <v t="leo.20151031212916.1"><vh>@edit 2015cphww4.md</vh></v>
 <v t="leo.20151101171332.1"><vh>@edit 2015cphww5.md</vh></v>
@@ -319,7 +319,7 @@
 </v>
 <v t="leo.20151101171511.1"><vh>@clean simplest3.html</vh>
 <v t="leo.20151101171511.2"><vh>檔案說明</vh></v>
-<v t="leo.20151101171511.3" a="E"><vh>html 標註</vh>
+<v t="leo.20151101171511.3"><vh>html 標註</vh>
 <v t="leo.20151101171511.4" a="E"><vh>body 標註</vh>
 <v t="leo.20151101171511.5" a="E"><vh>div class="reveal"</vh>
 <v t="leo.20151101171511.6" a="E"><vh>div class="slides"</vh>
@@ -381,7 +381,7 @@
 </v>
 </v>
 </v>
-<v t="leo.20151228104509.1" a="E"><vh>@button open html</vh>
+<v t="leo.20151228104509.1"><vh>@button open html</vh>
 <v t="leo.20151228104509.2" a="E"><vh>@clean cadp_w14_lecture.html</vh>
 <v t="leo.20151228104509.3"><vh>檔案說明</vh></v>
 <v t="leo.20151228104509.4" a="E"><vh>html 標註</vh>
@@ -2816,7 +2816,7 @@ content: "課程: 電腦輔助設計實習B\A 學號: 40323205"; }&lt;/style&gt;
 &lt;style&gt;.header1 header:after { 
 display: block;
 white-space: pre;
-content: "課程: 電腦輔助設計實習B 學號: 40323205"; }&lt;/style&gt;</t>
+content: "課程: 電腦輔助設計實習B\A 學號: 40323205"; }&lt;/style&gt;</t>
 <t tx="leo.20151228104509.16">&lt;script src="lib/js/head.min.js"&gt;&lt;/script&gt;
 &lt;script src="js/reveal.min.js"&gt;&lt;/script&gt;
 &lt;script&gt;
