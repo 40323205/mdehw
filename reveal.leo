@@ -355,7 +355,7 @@
 </v>
 </v>
 </v>
-<v t="leo.20151214115928.1" a="E"><vh>@button open html</vh>
+<v t="leo.20151214115928.1"><vh>@button open html</vh>
 <v t="leo.20151214115928.2" a="E"><vh>@clean cadp_w12_lecture.html</vh>
 <v t="leo.20151214115928.3"><vh>檔案說明</vh></v>
 <v t="leo.20151214115928.4" a="E"><vh>html 標註</vh>
@@ -377,6 +377,32 @@
 </v>
 </v>
 <v t="leo.20151214115928.16"><vh>script</vh></v>
+</v>
+</v>
+</v>
+</v>
+<v t="leo.20151228104509.1" a="E"><vh>@button open html</vh>
+<v t="leo.20151228104509.2" a="E"><vh>@clean cadp_w14_lecture.html</vh>
+<v t="leo.20151228104509.3"><vh>檔案說明</vh></v>
+<v t="leo.20151228104509.4" a="E"><vh>html 標註</vh>
+<v t="leo.20151228104509.5" a="E"><vh>body 標註</vh>
+<v t="leo.20151228104509.6" a="E"><vh>div class="reveal"</vh>
+<v t="leo.20151228104509.7" a="E"><vh>div class="slides"</vh>
+<v t="leo.20151228104509.8" a="E"><vh>第 14 週開始的規劃</vh>
+<v t="leo.20151228104509.15"><vh>&lt;&lt; header &gt;&gt;</vh></v>
+</v>
+<v t="leo.20151228104509.10" a="E"><vh>header 測試1</vh>
+<v t="leo.20151228104509.11"><vh>&lt;&lt; header &gt;&gt;</vh></v>
+</v>
+<v t="leo.20151228104509.12" a="E"><vh>header 測試2</vh>
+<v t="leo.20151228104509.15"></v>
+</v>
+<v t="leo.20151228104509.14" a="E"><vh>自評 心得-</vh>
+<v t="leo.20151228104509.15"></v>
+</v>
+</v>
+</v>
+<v t="leo.20151228104509.16"><vh>script</vh></v>
 </v>
 </v>
 </v>
@@ -570,32 +596,6 @@
 <v t="amd.20150915170743.148"><vh>script</vh></v>
 <v t="amd.20150915170743.149"><vh>script</vh></v>
 <v t="amd.20150915170743.150"><vh>script</vh></v>
-</v>
-</v>
-</v>
-<v t="leo.20151228104509.1" a="E"><vh>@button open html</vh>
-<v t="leo.20151228104509.2" a="E"><vh>@clean cadp_w14_lecture.html</vh>
-<v t="leo.20151228104509.3"><vh>檔案說明</vh></v>
-<v t="leo.20151228104509.4" a="E"><vh>html 標註</vh>
-<v t="leo.20151228104509.5" a="E"><vh>body 標註</vh>
-<v t="leo.20151228104509.6" a="E"><vh>div class="reveal"</vh>
-<v t="leo.20151228104509.7" a="E"><vh>div class="slides"</vh>
-<v t="leo.20151228104509.8" a="E"><vh>第 14 週開始的規劃</vh>
-<v t="leo.20151228104509.15"><vh>&lt;&lt; header &gt;&gt;</vh></v>
-</v>
-<v t="leo.20151228104509.10" a="E"><vh>header 測試1</vh>
-<v t="leo.20151228104509.11"><vh>&lt;&lt; header &gt;&gt;</vh></v>
-</v>
-<v t="leo.20151228104509.12" a="E"><vh>header 測試2</vh>
-<v t="leo.20151228104509.15"></v>
-</v>
-<v t="leo.20151228104509.14" a="E"><vh>自評 心得-</vh>
-<v t="leo.20151228104509.15"></v>
-</v>
-</v>
-</v>
-<v t="leo.20151228104509.16"><vh>script</vh></v>
-</v>
 </v>
 </v>
 </v>
