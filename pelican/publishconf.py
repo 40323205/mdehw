@@ -25,15 +25,14 @@ AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
 # Blogroll
-LINKS = (('2015課程網頁', 'http://wordpress-2015course.rhcloud.com/'),
-                ('Python', 'http://python.org/'),
-                ('2015作業主頁', 'http://2015fallhw.github.io/2015fallcadpb/'),
-                ('Group3_作業主頁', 'http://2015fallhw.github.io/2015fallcadpb/category/g3.html'),
-                ('我的github', 'https://github.com/40323205/mdehw/tree/gh-pages'),
-                ('我的協同網站', 'http://2015fallhw.github.io/2015fallcadpb/user/40323205/'))
+LINKS = (('我的github', 'https://github.com/40323205/mdehw/tree/gh-pages'),
+('我的協同網站', 'http://2015fallhw.github.io/2015fallcadpb/user/40323205/'),
+('Group3_作業主頁', 'http://2015fallhw.github.io/2015fallcadpb/category/g3.html'),
+('2015作業主頁', 'http://2015fallhw.github.io/2015fallcadpb/'),
+('2015課程網頁', 'http://wordpress-2015course.rhcloud.com/'))
 
 # Social widget
-SOCIAL = (('My Github', 'https://github.com/40323205/mdehw/tree/gh-pages'),
+SOCIAL = (('我的github', 'https://github.com/40323205/mdehw/tree/gh-pages'),
           ('2015fallhw/2015fallcadpb', 'https://github.com/2015fallhw/2015fallcadpb/tree/gh-pages'),)
 
 DEFAULT_PAGINATION = 10
