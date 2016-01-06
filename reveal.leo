@@ -430,7 +430,7 @@
 </v>
 </v>
 </v>
-<v t="leo.20160106224124.1"><vh>@button open html</vh>
+<v t="leo.20160106224124.1" a="E"><vh>@button open html</vh>
 <v t="leo.20160106224124.2" a="E"><vh>@clean cadp_w14_lecture.html</vh>
 <v t="leo.20160106224124.3"><vh>檔案說明</vh></v>
 <v t="leo.20160106224124.4" a="E"><vh>html 標註</vh>
@@ -3190,7 +3190,7 @@ for ch in p.children():
     &lt;li&gt;在 github 倉儲中點入 stl 檔&lt;/li&gt;
     &lt;li&gt;會有一個 Raw 的鈕可以點選&lt;/li&gt;
     &lt;li&gt;複製網址：從個人帳號開始複製&lt;/li&gt;
-    &lt;li&gt;運用此語法： &lt;script src="https://embed.github.com/view/3d/X"&gt;&lt;/script&gt; &lt;/li&gt;
+    &lt;li&gt;運用此語法：&lt;script src="h ttps://embed.github.com/view/3d/X"&gt;&lt;/script&gt; &lt;/li&gt;
     &lt;li&gt;將第5步驟複製的網址 覆蓋到X&lt;/li&gt;
     &lt;li&gt;再將整串放入文章中，即可呈現零件3D圖&lt;/li&gt;
     &lt;/ol&gt;		
