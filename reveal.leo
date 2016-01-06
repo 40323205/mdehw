@@ -3186,7 +3186,7 @@ for ch in p.children():
 &lt;&lt; header &gt;&gt;
 
 &lt;section&gt;
-    &lt;h1&gt;呈現零件3D圖-&lt;/h1&gt;
+    &lt;h1&gt;呈現零件3D圖(一)-&lt;/h1&gt;
     &lt;ol&gt;
     &lt;li&gt;把個人所畫的零件存成 stl 檔&lt;/li&gt;
     &lt;li&gt;把這個 stl 檔推到個人 github 倉儲後&lt;/li&gt;
@@ -3287,11 +3287,12 @@ cadp w12 講課內容投影片
 &lt;&lt; header &gt;&gt;
 
 &lt;section&gt;
-&lt;ol&gt;
-         &lt;li&gt;複製網址：從個人帳號開始複製&lt;/li&gt;
+    &lt;h1&gt;呈現零件3D圖(二)-&lt;/h1&gt;
+    &lt;ol&gt;
+    &lt;li&gt;複製網址：從個人帳號開始複製&lt;/li&gt;
     &lt;li&gt;運用此語法：script src="https://embed.github.com/view/3d/X" /script&lt;/li&gt;
-    &lt;li&gt;(若想運用此語法，請將 script 及 /script 加上 &lt; &gt; &lt;/li&gt;
-    &lt;li&gt;將第5步驟複製的網址 覆蓋到X&lt;/li&gt;
+    &lt;li&gt;(若想運用此語法，請將 script 及 /script 加上 &lt; &gt;)&lt;/li&gt;
+    &lt;li&gt;將上一頁第5步驟複製的網址 覆蓋到X&lt;/li&gt;
     &lt;li&gt;再將整串放入文章中，即可呈現零件3D圖&lt;/li&gt;
     &lt;/ol&gt;		
     &lt;/section&gt;
