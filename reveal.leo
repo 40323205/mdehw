@@ -28,14 +28,14 @@
 <v t="amd.20150919104249.1"><vh>檢查 profile 位置</vh></v>
 </v>
 <v t="amd.20150919103357.1"><vh>pelican 設定</vh></v>
-<v t="amd.20150919112710.1"><vh>@path pelican</vh>
+<v t="amd.20150919112710.1" a="E"><vh>@path pelican</vh>
 <v t="amd.20150919113340.1"><vh>以下為與 pelican 有關的設定檔案</vh></v>
 <v t="amd.20150919113132.1"><vh>@edit publishconf.py</vh></v>
 </v>
 </v>
 <v t="amd.20150919113957.1"><vh>以下為 pelican 文章</vh></v>
 <v t="amd.20150919124128.1"><vh>@button pelican content</vh></v>
-<v t="amd.20150919114010.1"><vh>@path pelican\content</vh>
+<v t="amd.20150919114010.1" a="E"><vh>@path pelican\content</vh>
 <v t="amd.20150919120205.1"><vh>以下為 reveal 投影片</vh></v>
 <v t="amd.20150919114035.1"><vh>@edit 2015cphww1.md</vh></v>
 <v t="leo.20151031212916.1"><vh>@edit 2015cphww4.md</vh></v>
@@ -507,7 +507,7 @@
 </v>
 </v>
 </v>
-<v t="leo.20160107151643.1" a="E"><vh>@button open html</vh>
+<v t="leo.20160107151643.1"><vh>@button open html</vh>
 <v t="leo.20160107151643.2" a="E"><vh>@clean cadp_final_lecture.html</vh>
 <v t="leo.20160107151643.3"><vh>檔案說明</vh></v>
 <v t="leo.20160107151643.4" a="E"><vh>html 標註</vh>
